@@ -1,2 +1,1 @@
-Kookmin.univ. SW
-good
+20212996, 박수연, sw
