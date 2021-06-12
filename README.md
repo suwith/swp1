@@ -1,2 +1,3 @@
-suyeon	20212996
+2021296
+suyeon
 Kookmin.univ. SW
